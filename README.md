@@ -165,10 +165,10 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot_1.png" width="250">
-  <img src="screenshots/screenshot_2.png" width="250">
-  <img src="screenshots/screenshot_3.png" width="250">
-  <img src="screenshots/screenshot_4.png" width="250">
+  <img src="assets/screenshots/screenshot_1.png" width="250">
+  <img src="assets/screenshots/screenshot_2.png" width="250">
+  <img src="assets/screenshots/screenshot_3.png" width="250">
+  <img src="assets/screenshots/screenshot_4.png" width="250">
 </p>
 
 
